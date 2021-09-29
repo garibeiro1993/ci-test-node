@@ -1,6 +1,6 @@
 name: Quality and Tests
 on:
-  push:
+  pull_request:
 
 jobs:
   quality:
